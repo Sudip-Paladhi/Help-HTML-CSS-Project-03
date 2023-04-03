@@ -15,7 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-### Checkout the live website [here]()
+### Checkout the live website [here](https://sudip-paladhi.github.io/Help-HTML-CSS-Project-03/)
 ---
 
 ## How the website looks like
